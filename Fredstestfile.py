@@ -1,4 +1,1 @@
-def FredTest():
-    print("Das hat Fredi erstellt!")
-
-FredTest()
+print("deleted all")
